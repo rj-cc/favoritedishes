@@ -1,0 +1,95 @@
+body {
+      background-color: #FCF9BE;
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+}
+
+h1 {
+  color: #DD5353;
+  font-family: 'Pacifico', cursive;
+  font-size: 55px;
+  margin-bottom: 0;
+}
+
+h3 {
+    color: #FAAB78;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    margin-top: 0;
+}
+
+a:hover {
+    color: #F7A4A4;
+}
+
+.top-container {
+    padding-bottom: 100px;
+}
+
+.main-image {
+    border-radius: 10px;
+    height: auto;
+    width: 675px;
+}
+
+.mid-container {
+    background-color: #E8F3D6;
+}
+
+.adobo-img {
+    position: relative;
+    border-radius: 10px;
+    height: auto;
+    width: 337.5px;
+    right: 200px;
+    top: 150px;
+}
+
+.adobo-text {
+    position: relative;
+    color: #FAAB78;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    top: 200px;
+    left: 50px;
+}
+
+.sisig-img {
+    position: relative;
+    border-radius: 10px;
+    height: auto;
+    width: 337.5px;
+    right: 220px;
+    top: 150px;
+}
+
+.sisig-text {
+    position: relative;
+    color: #FAAB78;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    top: 200px;
+    left: 20px;
+}
+
+.sinigang-img {
+  position: relative;
+  border-radius: 10px;
+  height: 337.5px;
+  width: 337.5px;
+  left: 450px;
+  bottom: 200px;
+}
+
+.sinigang-text {
+    position: relative;
+    color: #FAAB78;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    top: 200px;
+    right: 25px;
+}
