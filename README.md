@@ -1,2 +1,2 @@
-# odin-recipes
-This will be used as an HTML practice from The Odin Project
+# Pinoy Recipes
+Basic HTML and CSS practice I learned from The Odin Project.
